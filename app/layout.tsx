@@ -9,14 +9,14 @@ const outfit = Outfit({
 });
 
 export const metadata: Metadata = {
-  title: "Nianverse",
-  description: "Khởi đời của một lượng tử hoá.",
+  title: "Nianverse Quantangle",
+  description: "Quantangle is a self-management system based on states, energies, and observation, in which aspects of life exist in a state of tangled connections and only “collapse” into action when intentionally observed.",
   openGraph: {
-    title: "Nianverse",
-    description: "Khởi đời của một lượng tử hoá.",
+    title: "Nianverse Quantangle",
+    description: "Quantangle is a self-management system based on states, energies, and observation, in which aspects of life exist in a state of tangled connections and only “collapse” into action when intentionally observed.",
     images: [
       {
-        url: "/animate-texture.jpg",
+        url: "/thumbnail.png",
         width: 1200,
         height: 630,
         alt: "Nianverse",
@@ -26,9 +26,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Nianverse",
-    description: "Khởi đời của một lượng tử hoá.",
-    images: ["/animate-texture.jpg"],
+    title: "Nianverse Quantangle",
+    description: "Quantangle is a self-management system based on states, energies, and observation, in which aspects of life exist in a state of tangled connections and only “collapse” into action when intentionally observed.",
+    images: ["/thumbnail.png"],
   },
 };
 
